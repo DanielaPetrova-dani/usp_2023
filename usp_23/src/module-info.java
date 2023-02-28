@@ -1,0 +1,2 @@
+module usp_23 {
+}
